@@ -1,6 +1,7 @@
-$primary: #000000;
-
-
-body{
-    background: $primary;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+
+@import '_header.scss';

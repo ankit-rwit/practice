@@ -1,0 +1,16 @@
+header {
+    background: #000;
+
+    ul {
+        display: flex;
+        justify-content: space-around;
+        padding: 20px;
+
+        li {
+            a {
+                color: #fff;
+                text-decoration: none;
+            }
+        }
+    }
+}
